@@ -249,3 +249,6 @@ Conclusiones.
 La corriente en un circuito con inductores tiene valores altos y esto sucede porque los inductores aprovechan el paso de la corriente para generar un campo magnético de gran cantidad de voltaje y con baja resistencia provocando que la corriente del circuito tenga valores altos.
 
 Bibliografia.
+
+FLOYD, T. L. (2008). 5 PRINCIPIOS DE CIRCUITOS ELECTRICOS (8a. ed.). MEXICO: PEARSON EDUCACION.
+
