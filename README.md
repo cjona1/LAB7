@@ -177,7 +177,7 @@ Tabla del circuito 1.
 
 Tabla del circuito 2.
 
-![image](https://user-images.githubusercontent.com/116817673/218096492-acee55f7-cdf4-4751-9dec-ce79c997d97d.png)
+![image](https://user-images.githubusercontent.com/116817673/219410745-744b411b-c628-4c77-97b6-a470e971c5bc.png)
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
